@@ -1,0 +1,1 @@
+java -jar GUI_InformationRetrival.jar

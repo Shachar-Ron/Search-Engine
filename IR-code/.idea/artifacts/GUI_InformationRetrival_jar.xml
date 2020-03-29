@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GUI_InformationRetrival:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GUI_InformationRetrival_jar</output-path>
+    <root id="archive" name="GUI_InformationRetrival.jar">
+      <element id="module-output" name="GUI_InformationRetrival" />
+      <element id="extracted-dir" path="$USER_HOME$/jars/jackson-annotations-2.9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/jars/jackson-databind-2.9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/medallia-word2vec-0.10.2-jar-with-dependencies.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/jars/jackson-core-2.9.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
